@@ -1,4 +1,5 @@
 Hola
+Jira 6 arreglado
 Jira 5 arreglado
 Jira 4 arreglado
 Jira 3 arreglado 
